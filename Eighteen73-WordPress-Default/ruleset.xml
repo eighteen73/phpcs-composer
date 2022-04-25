@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ruleset name="Eighteen73-WordPress-Default">
+<ruleset name="eighteen73-WordPress-Default">
     <description>A base ruleset that all other eighteen73 WordPress rulesets should extend.</description>
 
     <exclude-pattern>*/phpunit.xml*</exclude-pattern>

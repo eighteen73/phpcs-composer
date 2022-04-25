@@ -1,6 +1,7 @@
 {
     "name": "eighteen73/phpcs-composer",
     "description": "Modestly opinionated PHPCS configuration",
+    "type": "phpcodesniffer-standard",
     "license": "MIT",
     "authors": [
         {
