@@ -46,6 +46,7 @@
     <rule ref="WordPress-Core">
         <!-- We like short arrays and ternaries around here -->
         <exclude name="Generic.Arrays.DisallowShortArraySyntax" />
+        <exclude name="WordPress.PHP.DisallowShortTernary" />
 
         <!-- Yoda conditions are not required -->
         <exclude name="WordPress.PHP.YodaConditions" />
